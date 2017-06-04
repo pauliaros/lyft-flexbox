@@ -86,3 +86,38 @@ a{
  	align-items: flex-start;
  	padding-right: 50px;
  }
+
+.video iframe,
+.video2 iframe{
+	justify-content: flex-end;
+ 	float: right;
+ 	width: 60%
+ 	
+}
+
+
+.text-watch{
+	width: 400px;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-size: 17px;
+}
+
+.video1 iframe{
+	justify-content: flex-start;
+ 	float: left;
+ 	width: 60%
+ 	
+}
+
+
+.text-june,
+.text-thing{
+	width: 400px;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-size: 17px;
+	float: right;
+	
+}
+
